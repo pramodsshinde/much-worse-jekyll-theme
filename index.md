@@ -6,15 +6,26 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I am a **Postdoctoral Researcher in Systems Immunology** at the **La Jolla Institute for Immunology (LJI)**, working in the group of **Prof. Bjoern Peters**. My research combines computational biology, statistics, and immunology to understand how the human immune system responds to infection and vaccination.  
 
-## Contact
+Before joining LJI, I completed my **Ph.D. in Bioinformatics and Computational Biology** at the **Indian Institute of Technology (IIT) Indore**, where I studied mitochondrial evolution and genetic network organization under the supervision of **Prof. Sarika Jalan**. My doctoral work applied network science to genomic and proteomic systems to uncover evolutionary and disease-associated molecular interactions.
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+At LJI, I develop and apply **multi-omics integration** and **machine learning** approaches to extract predictive immune signatures across transcriptomic, proteomic, and immuno-profiling data. A major focus of my work is designing reproducible computational frameworks that can evaluate and benchmark models of vaccine-induced immunity, including large-scale international initiatives such as the **CMI-PB** and **CMI-Flu** challenges. These efforts aim to advance data-driven discovery in **systems vaccinology** and improve our understanding of protective immune mechanisms.
 
+My broader interests lie at the intersection of **bioinformatics, network biology, and immunology**, with a growing emphasis on **AI-assisted discovery** and **science communication**. I enjoy collaborative, interdisciplinary research environments where computational and experimental teams work closely to decode complex biological systems.
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+Details of my publications can be found on [Google Scholar][Scholar] and [GitHub][GitHub].
+
+---
+
+**Contact**
+
+**Pramod Shinde**  
+La Jolla Institute for Immunology  
+9420 Athena Circle, San Diego, CA 92037, USA  
+Email: [pramodshinde119@gmail.com]
+
+---
+
+[Scholar]: https://scholar.google.com/citations?user=2GeAO4IAAAAJ&hl=en&oi=ao  
+[GitHub]: https://github.com/pramodsshinde
