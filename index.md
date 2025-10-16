@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="Pramod Shinde"  max_width="10px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="Pramod Shinde" width="120px" height="120px" align="right" %}
 
 I am a Postdoctoral Researcher in Systems Immunology at the [La Jolla Institute for Immunology (LJI)](https://www.lji.org/), working in the group of [Prof. Bjoern Peters](https://www.lji.org/labs/peters/). My research combines computational biology, statistics, and immunology to understand how the human immune system responds to infection and vaccination.  
 
