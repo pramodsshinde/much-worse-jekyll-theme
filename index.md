@@ -4,8 +4,6 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="Pramod Shinde" max_width="120px" align="right" %}
-
 I am a Postdoctoral Researcher in Systems Immunology at the [La Jolla Institute for Immunology (LJI)](https://www.lji.org/), working in the group of [Prof. Bjoern Peters](https://www.lji.org/labs/peters/). My research combines computational biology, statistics, and immunology to understand how the human immune system responds to infection and vaccination.  
 
 Before joining LJI, I completed my Ph.D. in Bioinformatics and Computational Biology at the [Indian Institute of Technology (IIT) Indore](https://www.iiti.ac.in/), where I studied mitochondrial evolution and genetic network organization under the supervision of [Prof. Sarika Jalan](https://www.iiti.ac.in/people/~sarika/). My doctoral work applied network science to genomic and proteomic systems to uncover evolutionary and disease-associated molecular interactions.
