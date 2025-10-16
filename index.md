@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption=""  max_width="30px" max_width="40px" align="right" %}
+{% include image.html url="images/photo.jpg" caption="Pramod Shinde"  max_width="10px" align="right" %}
 
 I am a Postdoctoral Researcher in Systems Immunology at the [La Jolla Institute for Immunology (LJI)](https://www.lji.org/), working in the group of [Prof. Bjoern Peters](https://www.lji.org/labs/peters/). My research combines computational biology, statistics, and immunology to understand how the human immune system responds to infection and vaccination.  
 
@@ -16,16 +16,10 @@ My broader interests lie at the intersection of bioinformatics, network biology,
 
 Details of my publications can be found on [Google Scholar][Scholar] and [GitHub][GitHub].
 
----
-
-**Contact**
-
-**Pramod Shinde**  
-[La Jolla Institute for Immunology](https://www.lji.org/)  
-9420 Athena Circle, San Diego, CA 92037, USA  
 Email: [pramodshinde119@gmail.com]
+Contact: [La Jolla Institute for Immunology](https://www.lji.org/)  
+         9420 Athena Circle, San Diego, CA 92037, USA  
 
----
 
 [Scholar]: https://scholar.google.com/citations?user=2GeAO4IAAAAJ&hl=en&oi=ao  
 [GitHub]: https://github.com/pramodsshinde
