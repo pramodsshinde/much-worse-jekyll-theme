@@ -9,7 +9,3 @@ permalink: /cv/
     📄 Download CV (PDF)
   </a>
 </p>
-
-<object data="/assets/cv.pdf" type="application/pdf" width="100%" height="800px">
-  <p>Your browser can’t display this PDF. <a href="/assets/cv.pdf">Download it here.</a></p>
-</object>
