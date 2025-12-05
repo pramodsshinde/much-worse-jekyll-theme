@@ -16,8 +16,11 @@ My broader interests lie at the intersection of bioinformatics, network biology,
 Details of my publications can be found on [Google Scholar][Scholar] and [GitHub][GitHub].
 
 Email: pramodshinde119@gmail.com
+
 Contact: [La Jolla Institute for Immunology](https://www.lji.org/)  
-         9420 Athena Circle, San Diego, CA 92037, USA  
+         9420 Athena Circle, 
+         San Diego, CA 92037, 
+         USA  
 
 
 [Scholar]: https://scholar.google.com/citations?user=2GeAO4IAAAAJ&hl=en&oi=ao  

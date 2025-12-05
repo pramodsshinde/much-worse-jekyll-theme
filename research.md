@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /publications/
+title: Publications
 pubs:
 
     - title: "Computational Models Predict Immunity"
